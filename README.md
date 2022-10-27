@@ -1,6 +1,8 @@
 # Monster Hunter Freedom Unite Upscale Project (english)
 
-This is an texture upscaling project for Monster Hunter Freedom Unite ULUS10391 (US version) for the PSP Emulator, [PPSSPP](https://www.ppsspp.org/).  Please feel free to take anything from this project and use anywhere you like, no credit is due, or help improve this project!
+**Please note** this is forked from the [main](https://github.com/three5media/mfhu-hd-retexture) project, the one for the US version of the game, with some little fixes for the EU version. Any improvement is welcome.
+
+This is an texture upscaling project for Monster Hunter Freedom Unite ULES01213 (EU version) for the PSP Emulator, [PPSSPP](https://www.ppsspp.org/).  Please feel free to take anything from this project and use anywhere you like, no credit is due, or help improve this project!
 
 ## Description
 
@@ -57,7 +59,7 @@ Again, this is all an estimate but seems to be in line with where I am in the ga
 
 ### Installing
 
-* Download and extract the "ULUS10391" folder in the PSP/TEXTURES folder.
+* Download and extract the "ULES01213" folder in the PSP/TEXTURES folder.
 * If the TEXTURES folder does not exist, create it in the same directory where you see the COMMON, GAME, and SAVEDATA folders.
 * In the PPSSPP emulator, go to SETTINGS -> TOOLS -> DEVELOPER TOOLS
 * Under Texture Replacement, make sure the "Replace textures" box is checked.
